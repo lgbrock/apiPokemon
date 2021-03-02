@@ -38,6 +38,7 @@ body {
 	font-family: "lato", sans-serif;
 	color: #333;
 	line-height: 1.6;
+	text-align: center;
 }
 
 ul {
@@ -50,7 +51,6 @@ a {
 }
 
 h1,
-h2,
 h3 {
 	font-weight: 300;
 	line-height: 1.2;
